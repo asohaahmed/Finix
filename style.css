@@ -1,9 +1,9 @@
 html{
     scroll-behavior: smooth;
 }
-body{
+/* body{
     background: gray;
-}
+} */
 
 img{
     max-width: 100%;
